@@ -30,7 +30,7 @@ This project was realized by:
 * Temporarily storing the static content, so that copies of the content are available worldwide (cdn)
 * Applying the bootstrap framework (see Technologies used)
 * reCAPTCHA V3
-  
+    
 </p>
 </details>
 
