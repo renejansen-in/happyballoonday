@@ -464,7 +464,7 @@ Creative Commons may be contacted at creativecommons.org.
 <details><summary>Contribute to the Project</summary>
 <p>
     
-This project was part of a study program. No contributions can be made.
+This project involved a delivery to the customer. In consultation with the client, I was allowed to make the project available on Github as part of my portfolio.No contributions can be made.
     
 </p>
 </details>
